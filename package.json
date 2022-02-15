@@ -1,0 +1,13 @@
+{
+  "name": "sutility",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ShAd",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
